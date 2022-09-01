@@ -10,6 +10,8 @@ https://earthly.dev/blog/python-makefile/
 
 ## Make Virtual Environment
 
+make --version   #check make version
+
 sudo apt install python3.8-venv
 
 python3 -m venv temp
